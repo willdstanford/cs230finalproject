@@ -1,6 +1,6 @@
 # CS230 Final Project: ARC Transformer
 
-This repository contains code for my CS230 Final Project.
+This repository contains code for my CS230 Final Project: ARC Transformer.
 
 - `'arc_final.py'` contains all project code
 
